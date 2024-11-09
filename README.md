@@ -1,2 +1,1 @@
-# Torrent_Para_Magnet
-Converter Torrent para Magnet
+[https://nutbread.github.io/t2m/](https://nutbread.github.io/t2m/)
